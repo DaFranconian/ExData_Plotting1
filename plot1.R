@@ -1,4 +1,4 @@
-## Code to read subset of given data and create plot2
+## Code to read subset of given data and create plot1
 
 ## Read File (should be contained in a separate "data" folder)
 data <- "./data/houspowcons.txt" ## rename file name if necessary
